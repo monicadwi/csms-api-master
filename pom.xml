@@ -60,11 +60,6 @@
 			<artifactId>spring-boot-starter-test</artifactId>
 			<scope>test</scope>
 		</dependency>
-		<dependency>
-			<groupId>org.sonarsource.sonar-packaging-maven-plugin</groupId>
-			<artifactId>sonar-packaging-maven-plugin</artifactId>
-			<version>2.9.0.2155</version>
-		</dependency>
 	</dependencies>
 
 	<build>
